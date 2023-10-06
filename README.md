@@ -3,7 +3,7 @@
 O dataset de varejo que temos em mãos é composto por informações de vendas de uma loja virtual que atua em todo território nacional, com venda de produtos de diferentes departamentos.
 Além disso, possui diferentes canais de venda
 
- Premissas de negócio:
+ <strong>Premissas de negócio:
 
 A primeira delas é que  devido a um erro no sistema, algumas compras não possuem informações de UF (Unidade Federativa). Nesse caso será atribuído a UF MS(Mato Grosso do Sul)
 A Segunda é que o preço com frete não deve ser menor que o preço sem o frete
